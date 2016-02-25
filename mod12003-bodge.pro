@@ -1,4 +1,4 @@
-update=Wed 24 Feb 2016 03:54:30 PM EST
+update=Thu 25 Feb 2016 06:26:39 PM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,17 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=schlib/page_layouts/basic.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=pcblib/page_layouts/empty.kicad_wks
@@ -121,3 +110,14 @@ LibName78=schlib/library/symbol
 LibName79=schlib/library/TexasInstruments
 LibName80=schlib/library/Vishay
 LibName81=schlib/library/Xilinx
+[schematic_editor]
+version=1
+PageLayoutDescrFile=schlib/page_layouts/basic.kicad_wks
+PlotDirectoryName=renders
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+ERC_TestSimilarLabels=1
